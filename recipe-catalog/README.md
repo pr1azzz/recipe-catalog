@@ -1,10 +1,10 @@
 # Каталог рецептов на Express.js
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](screen/image.png)
+![alt text](screen/image-1.png)
+![alt text](screen/image-2.png)
+![alt text](screen/image-3.png)
+![alt text](screen/image-4.png)
 Веб-приложение для управления коллекцией рецептов с REST API.
 
 ## Функционал
