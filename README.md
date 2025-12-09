@@ -1,7 +1,11 @@
 # Каталог рецептов на Express.js
 
 Веб-приложение для управления коллекцией рецептов с REST API.
-![alt text](image.png)
+![alt text](recipe-catalog/screen/image.png)
+![alt text](recipe-catalog/screen/image-1.png)
+![alt text](recipe-catalog/screen/image-2.png)
+![alt text](recipe-catalog/screen/image-3.png)
+![alt text](recipe-catalog/screen/image-4.png)
 ## Функционал
 
 - 📋 Просмотр списка рецептов
